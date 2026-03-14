@@ -18,9 +18,9 @@ I love solving real-world problems with clean and efficient code. My passion for
 
 ### 🚀 Tech Stack
 
-- 💻 **Frontend**: HTML5, CSS3, JavaScript, React.js, Redux, Tailwind CSS, Bootstrap  
-- 🛠️ **Backend**: Node.js, Express.js, MongoDB, PostgreSQL  
-- ☁️ **Tools & Platforms**: Postman, Git, GitHub, AWS (basic), Netlify, Vercel  
+- 💻 **Frontend**: HTML5, CSS3, JavaScript, React.js, Redux, Tailwind CSS, Bootstrap, jQuery  
+- 🛠️ **Backend**: Node.js, Express.js, MongoDB, MYSQL, PHP, Typescript
+- ☁️ **Tools & Platforms**: Postman, Git, GitHub, AWS (basic), Netlify, Vercel, Railway, Render 
 - 📦 **Others**: REST APIs, JWT Auth, Firebase Auth, Google APIs, MVC architecture
 
 ---
@@ -54,7 +54,7 @@ I love solving real-world problems with clean and efficient code. My passion for
 
 ### 🔗 Let's Connect!
 
-- 🌐 Website: [goduguvenugopal.in](https://goduguvenugopal.in)
+- 🌐 Website: [goduguvenugopal.vercel.app](https://goduguvenugopal.vercel.app)
 - 💼 LinkedIn: [venugopalgodugu](https://www.linkedin.com/in/venugopalgodugu/)
 - 📧 Reach me via LinkedIn or my portfolio site contact form.
 

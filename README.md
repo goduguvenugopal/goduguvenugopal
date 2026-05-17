@@ -108,11 +108,11 @@ I continuously explore new technologies and improve my development skills by wor
 
   - 🛒 **MadlyMart** – Full-stack e-commerce application
 
-  - 💬 **Chathub** – Real-time group chat application using Socket.IO
+  - - 💒 **Chadivimpulavedika** – Marriage event contribution and visitor money management application  
 
   - 🔌 **SLV Electricals** – Business product showcase website
 
-  - 📷 Photo search application using APIs
+  -  - 🏨 **Hostel Management Application** – Full-stack application for managing hostel rooms, students, fees, and administration
 
 ---
 

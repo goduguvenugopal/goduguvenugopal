@@ -121,13 +121,15 @@ I continuously explore new technologies and improve my development skills by wor
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=goduguvenugopal&show_icons=true&theme=radical" 
-    alt="GitHub Stats" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=goduguvenugopal&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    alt="GitHub Stats"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=goduguvenugopal&layout=compact&theme=radical" 
-    alt="Top Languages" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=goduguvenugopal&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    alt="Top Languages"
   />
 </p>
 

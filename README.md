@@ -36,6 +36,7 @@ I continuously explore new technologies and improve my development skills by wor
 - JavaScript (ES6+)
 - TypeScript
 - React.js
+- Next.js
 - Redux Toolkit
 - Bootstrap
 - Tailwind CSS

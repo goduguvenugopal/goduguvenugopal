@@ -20,100 +20,223 @@ Full Stack Developer | MERN Stack Developer | Building Real-World Applications
 
 I’m **Godugu Venu Gopal**, a passionate **Full Stack Developer** currently working at **Young Minds Technology Solutions Pvt. Ltd.**
 
-My comfortable and primary stack is the **MERN Stack**, and I enjoy building scalable, responsive, and real-world applications with clean architecture and user-friendly interfaces.
+My primary stack is the **MERN Stack**, and I enjoy building scalable, responsive, and real-world applications with clean architecture and practical user experiences.
 
-Currently, I am working on a **Restaurant Management Software** project using **PHP**, **MySQL**, **jQuery**, **JavaScript**, and desktop-related technologies.
+Currently, I’m working on multiple real-world applications, including:
 
-I continuously explore new technologies and improve my development skills by working on practical applications and production-level projects.
+* 🏢 **SLV ERP** – A full-stack ERP and attendance management system
+* 🧾 **POS Desktop Application** – A desktop-based Point of Sale application
+* 📱 **Waiter Application** – A mobile application being developed with React Native
+* 🧠 **Data Structures & Algorithms** – Actively improving problem-solving and programming fundamentals
+
+I enjoy understanding how things work internally rather than simply using tools and frameworks. I’m continuously strengthening my knowledge of **JavaScript, TypeScript, React, Node.js, databases, backend architecture, system design, and DSA**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Redux Toolkit
-- Bootstrap
-- Tailwind CSS
-- jQuery
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* React Native
+* Next.js
+* Redux Toolkit
+* React Query
+* React Hook Form
+* Tailwind CSS
+* Bootstrap
+* jQuery
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- PHP
-- Firebase
-- REST APIs
-- JWT Authentication
 
-### 🖥️ Technologies & Tools
-- Electron.js
-- Git & GitHub
-- Postman
-- Firebase
-- Netlify
-- Vercel
-- Railway
-- Render
-- AWS (Basics)
-- VS Code
+* Node.js
+* Express.js
+* PHP
+* MySQL
+* MongoDB
+* Firebase
+* REST APIs
+* JWT Authentication
+* Cookie-Based Authentication
+
+### 🖥️ Desktop & Mobile
+
+* Electron.js
+* React Native
+* Android Development
+* Progressive Web Apps (PWA)
+
+### ☁️ Cloud & Deployment
+
+* AWS
+* Vercel
+* Netlify
+* Railway
+* Render
+* Hostinger
+
+### 🔧 Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* MySQL Workbench
 
 ### 📦 Other Skills
-- MVC Architecture
-- Responsive Design
-- API Integration
-- Socket.IO
-- PWA Development
-- Firebase Authentication
-- Google Authentication
+
+* MVC Architecture
+* REST API Design
+* Role-Based Access Control (RBAC)
+* API Integration
+* Authentication & Authorization
+* Socket.IO
+* Responsive Design
+* Database Design
+* Application Security
+* Cloud Deployment
+
+---
+
+## 🚀 Current Projects
+
+### 🏢 SLV ERP
+
+A full-stack **ERP and Attendance Management System** designed for managing business operations and employees.
+
+**Technologies:**
+
+* React
+* TypeScript
+* Tailwind CSS
+* React Query
+* React Hook Form
+* Node.js
+* Express.js
+* MySQL
+* JWT
+* REST APIs
+
+**Key areas:**
+
+* 🔐 Authentication & Authorization
+* 👥 Employee Management
+* 🛡️ Role-Based Access Control
+* 📋 Attendance Management
+* 🏗️ Project Management
+* 💰 Project Expenses
+* 💵 Salary Management
+* 📊 Administrative Dashboard
+
+The system is being developed with separate **Admin ERP** and **Employee** portals.
+
+---
+
+### 🧾 POS Desktop Application
+
+Currently working on a **Point of Sale desktop application** for business operations.
+
+**Technologies include:**
+
+* Electron.js
+* JavaScript
+* React
+* MySQL
+* REST APIs
+
+The application focuses on desktop-based business workflows, billing, data management, and integration with backend services.
+
+---
+
+### 📱 Waiter Application
+
+Building a **Waiter Application using React Native** for restaurant operations.
+
+The application is intended to help waiters manage restaurant workflows directly from mobile devices.
+
+**Technologies:**
+
+* React Native
+* TypeScript
+* REST APIs
+* Authentication
+* Backend Integration
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+I’m actively working on strengthening my **DSA and problem-solving skills** using JavaScript.
+
+Currently practicing:
+
+* Arrays
+* Strings
+* Two Pointers
+* Sliding Window
+* Hash Maps & Sets
+* Recursion
+* Sorting
+* Searching
+* Linked Lists
+* Stacks & Queues
+* Trees
+* Graphs
+* Dynamic Programming
+
+My focus is not only on solving problems, but also on understanding **time complexity, space complexity, and how algorithms work internally**.
 
 ---
 
 ## 📚 Currently Learning
 
-- React Native
-- Advanced Backend Architecture
-- AWS & Cloud Deployment
-- AI Tools & Integrations
-- Scalable Application Development
+* Advanced JavaScript
+* Data Structures & Algorithms
+* React Native
+* Backend Architecture
+* System Design
+* MySQL & Database Internals
+* AWS & Cloud Deployment
+* Authentication & Security
+* Scalable Application Architecture
 
 ---
 
-## 💼 Current Work
+## 💼 Professional Experience
 
-- 👨‍💻 Working as a **Full Stack Developer**
-  at **Young Minds Technology Solutions Pvt. Ltd.**
+👨‍💻 **Full Stack Developer**
+**Young Minds Technology Solutions Pvt. Ltd.**
 
-- 🍽️ Developing and maintaining a
-  **Restaurant Management Software**
+Currently working on real-world applications involving:
 
-- ⚡ Working with technologies like:
-  **PHP, MySQL, Electron.js, jQuery, React.js, and JavaScript**
+* Full-stack web development
+* ERP systems
+* POS applications
+* REST API development
+* Database design and integration
+* Desktop applications
+* Mobile application development
+* Authentication and authorization
+* Production deployments
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 🎓 Completed **Full Stack MERN Development Program**
-  from *Entri Elevate Software Pvt Ltd*
+* 🎓 Completed **Full Stack MERN Development Program** from *Entri Elevate Software Pvt. Ltd.*
+* 🥇 Received academic awards and medals for performance in college
+* 💻 Built and contributed to multiple real-world applications
 
-- 🥇 Received academic awards and medals for performance in college
+### Previous Projects
 
-- 💼 Built multiple real-world projects including:
-
-  - 🛒 **MadlyMart** – Full-stack e-commerce application
-
-  - - 💒 **Chadivimpulavedika** – Marriage event contribution and visitor money management application  
-
-  - 🔌 **SLV Electricals** – Business product showcase website
-
-  -  - 🏨 **Hostel Management Application** – Full-stack application for managing hostel rooms, students, fees, and administration
+* 🛒 **MadlyMart** – Full-stack e-commerce application
+* 💒 **Chadivimpulavedika** – Marriage event contribution and visitor money management application
+* 🔌 **SLV Electricals** – Business product showcase website
+* 🏨 **Hostel Management Application** – Full-stack application for managing hostel rooms, students, fees, and administration
 
 ---
 
@@ -126,22 +249,21 @@ I continuously explore new technologies and improve my development skills by wor
     alt="GitHub Stats"
   />
 
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=goduguvenugopal&layout=compact&theme=tokyonight&cache_seconds=1800" 
-    alt="Top Languages"
-  />
+<img 
+ height="180em"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=goduguvenugopal&layout=compact&theme=tokyonight&cache_seconds=1800" 
+ alt="Top Languages"
+/>
+
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-- 🌐 Portfolio: [goduguvenugopal.vercel.app](https://goduguvenugopal.vercel.app)
-
-- 💼 LinkedIn: [linkedin.com/in/venugopalgodugu](https://www.linkedin.com/in/venugopalgodugu/)
-
-- 📫 Reach me through LinkedIn or my portfolio contact form
+* 🌐 Portfolio: [goduguvenugopal.vercel.app](https://goduguvenugopal.vercel.app)
+* 💼 LinkedIn: [linkedin.com/in/venugopalgodugu](https://www.linkedin.com/in/venugopalgodugu/)
+* 📫 Reach me through LinkedIn or my portfolio contact form
 
 ---
 
